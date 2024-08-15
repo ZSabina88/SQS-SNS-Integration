@@ -15,9 +15,6 @@
             "ssm:PutParameter",
             "ssm:GetParameter",
             "kms:Decrypt",
-            "sqs:ReceiveMessage",
-            "sqs:DeleteMessage",
-            "sqs:GetQueueAttributes",
             "sns:Publish",
             "sns:Subscribe"
           ],
